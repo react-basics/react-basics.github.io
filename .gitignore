@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editoare
+.idea/
+.vscode/
+*.swp
+
+# Log-uri
+*.log
+npm-debug.log*
