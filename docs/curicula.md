@@ -394,7 +394,6 @@ Subiecte pregătite, pe care le abordăm **doar dacă ritmul grupului o permite*
 - RAG: răspunsuri din documentele proprii (CV, notițe)
 - Comparație între provideri, pe același prompt
 - Căutare în conversații și export PDF
-- Imagine ca input pentru model (vision)
 
 ---
 

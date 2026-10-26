@@ -395,7 +395,6 @@ Prepared topics we cover **only if the group's pace allows it** — they are not
 - RAG: answers from your own documents (CV, notes)
 - Comparing providers on the same prompt
 - Searching conversations and exporting to PDF
-- An image as input for the model (vision)
 
 ---
 
