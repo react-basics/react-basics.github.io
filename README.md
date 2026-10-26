@@ -78,7 +78,7 @@ Același build merge pe două domenii — folosește-l pe oricare:
 
 ## 🚀 Cum se actualizează
 
-Nu se editează nimic direct aici. Din repo-ul sursă (`examples/prerequisite/react-basics`):
+Nu se editează nimic direct aici. Din repo-ul sursă (`examples/react-basics`):
 
 ```bash
 npm run deploy
