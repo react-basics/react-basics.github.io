@@ -65,6 +65,17 @@ la refresh, diferența dintre stare care se pierde și stare care se persistă.
 
 ---
 
+## 📄 Curricula cursului
+
+Curricula cursului **„AI & Automation cu React"**, publicată tot aici, în două limbi:
+
+| Limbă | Link |
+| --- | --- |
+| 🇷🇴 Română | https://react-basics.github.io/curicula |
+| 🇬🇧 English | https://react-basics.github.io/curicula.en |
+
+---
+
 ## 🌍 Unde e publicată
 
 Același build merge pe două domenii — folosește-l pe oricare:
@@ -85,5 +96,6 @@ npm run deploy
 ```
 
 Comanda face build-ul, copiază `dist/` peste `docs/` în ambele repo-uri de publicare, apoi comite și
-dă push. Conținutul din [`docs/`](docs/) e **generat** — orice modificare manuală se pierde la
+dă push. Tot ea copiază aici și cele două fișiere de curriculă (`curicula.md`, `curicula.en.md`), pe care
+GitHub Pages le convertește în pagini HTML. Conținutul din [`docs/`](docs/) e **generat** — orice modificare manuală se pierde la
 următorul deploy.
