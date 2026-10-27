@@ -408,6 +408,8 @@ Subiecte pregătite, pe care le abordăm **doar dacă ritmul grupului o permite*
 
 ### Cursuri recomandate pentru aprofundare
 
+- [Become a WEB Developer from Scratch, step by step Guide](https://nmatei.github.io/web) — cursul trainerului:
+  HTML și CSS de la zero (layout, flexbox, grid), cu cel mai bun cupon de reducere Udemy activ
 - [Modern React with Redux](https://www.udemy.com/course/react-redux/) — fundamente React și state management
 - [Next.js 15 & Firebase](https://www.udemy.com/course/nextjs-firebase/) — Next.js (App Router), deploy,
   backend-as-a-service (auth, DB, storage)

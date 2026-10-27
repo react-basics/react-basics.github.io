@@ -409,6 +409,8 @@ Prepared topics we cover **only if the group's pace allows it** — they are not
 
 ### Recommended courses for going deeper
 
+- [Become a WEB Developer from Scratch, step by step Guide](https://nmatei.github.io/web) — the trainer's course:
+  HTML and CSS from scratch (layout, flexbox, grid), with the best active Udemy discount coupon
 - [Modern React with Redux](https://www.udemy.com/course/react-redux/) — React fundamentals and state management
 - [Next.js 15 & Firebase](https://www.udemy.com/course/nextjs-firebase/) — Next.js (App Router), deployment,
   backend-as-a-service (auth, DB, storage)
