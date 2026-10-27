@@ -22,7 +22,7 @@
 - [Publicul-țintă](#publicul-țintă)
   - [Pentru cine este cursul](#pentru-cine-este-cursul)
   - [Pentru cine nu este](#pentru-cine-nu-este)
-- [Prerequisite](#prerequisite)
+- [Cerințe preliminare](#cerințe-preliminare)
   - [Cunoștințe obligatorii](#cunoștințe-obligatorii)
   - [Nice to have](#nice-to-have)
   - [Setup necesar](#setup-necesar)
@@ -56,7 +56,7 @@
 - [Etapa 5 — Proiectul personal](#etapa-5--proiectul-personal)
   - [5.1 Repere](#51-repere)
   - [5.2 Criterii de evaluare](#52-criterii-de-evaluare)
-- [Fir transversal — codul îl generăm cu un agent AI](#fir-transversal--codul-îl-generăm-cu-un-agent-ai)
+- [Firul roșu al cursului — codul îl generăm cu un agent AI](#firul-roșu-al-cursului--codul-îl-generăm-cu-un-agent-ai)
   - [Cum ceri](#cum-ceri)
   - [Cum controlezi rezultatul](#cum-controlezi-rezultatul)
   - [Securitate](#securitate)
@@ -149,7 +149,7 @@ Pentru developeri web care lucrează deja cu React — ritmul și primele etape 
 
 ---
 
-## Prerequisite
+## Cerințe preliminare
 
 ### Cunoștințe obligatorii
 
@@ -362,7 +362,7 @@ Anunțate din prima sesiune:
 
 ---
 
-## Fir transversal — codul îl generăm cu un agent AI
+## Firul roșu al cursului — codul îl generăm cu un agent AI
 
 Nu e o etapă separată: **în toate cele cinci etape, codul este generat de un agent AI** (GitHub Copilot, Claude Code
 sau echivalent), iar tu îl ghidezi și îl verifici.
